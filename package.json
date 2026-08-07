@@ -1,0 +1,15 @@
+{
+  "name": "huly-gitlab-sync",
+  "version": "1.0.0",
+  "description": "GitLab to Huly Sync Bridge",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@gitbeaker/rest": "^43.8.0",
+    "@hcengineering/api-client": "0.7.423",
+    "express": "^4.18.2",
+    "ws": "^8.16.0"
+  }
+}

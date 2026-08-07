@@ -1,0 +1,5 @@
+node_modules/
+.env
+issue-mapping.json
+.DS_Store
+Thumbs.db
